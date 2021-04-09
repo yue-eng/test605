@@ -1,4 +1,4 @@
-console.log(1);
-function get(){
-    
+
+function geta(a,b){
+    return a+b
 }
